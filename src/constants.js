@@ -235,8 +235,8 @@ export const projects = [
       "A fully functional full-stack clone of BookMyShow built using Django (backend) and React (frontend). Includes features like user authentication, movie and show listings, seat selection, ticket booking, payment simulation, and admin panel for theatre owners. The UI is responsive and closely mimics the real platform.",
     image: bookmyshowCloneLogo,
     tags: ["Django", "React", "Tailwind CSS", "Python", "JavaScript", "Full Stack"],
-    github: "https://github.com/rojalinworks/bookmyshow",
-    webapp: "https://rojalinworks.github.io/bookmyshow/",
+    github: "https://github.com/rojalinworks/bookmyshow-clone",
+    webapp: "https://rojalinworks.github.io/bookmyshow-clone/",
   },
   {
     id: 4,
